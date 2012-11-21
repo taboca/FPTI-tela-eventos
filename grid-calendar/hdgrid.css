@@ -22,6 +22,7 @@ body {
   background: -moz-linear-gradient( -90deg, rgb(40,100,220), rgba(40,80,140,1));
   height:100%;
   padding:.5em;
+  padding-top:.1em;
   overflow: hidden;
   text-overflow:ellipsis;
 } 
